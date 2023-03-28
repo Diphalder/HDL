@@ -13,10 +13,9 @@ begin
         {CF,R}=A+B;
     else if(OP==2'b01)
         R=A&B;
-        CF=0;
+    
     else if(OP==2'b10)
         R=A>>B;
-        CF=0;
     if(R==4'b0000)
         ZF=1'b1;
     if(R[3]==1'b1)
