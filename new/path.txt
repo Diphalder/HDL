@@ -1,0 +1,1 @@
+ cd /mnt/e/3-2/computer\ archi/hdl/HDL/new
